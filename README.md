@@ -1,6 +1,6 @@
 # tan_codes22
 My personal repository
-#About me : Forever Curious
+# About me : Forever Curious
 
 
 ## 🌐 Socials:
