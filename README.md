@@ -1,6 +1,5 @@
 # tan_codes22
 My personal repository
-# About Me:
 Forever Curious
 
 
